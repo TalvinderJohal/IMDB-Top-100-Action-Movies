@@ -3,23 +3,23 @@
 
 It consists of scraping the following information from IMDB:
 
-Movie name
+Movie name - T
 
-Description
+Description - T
 
-Release Date
+Release Date - T
 
-Director Name
+Director Name - A
 
-Rating
+Rating - A
 
-Duration
+Duration - A
 
-Genre
+Genre - M
 
-Stars (Actors)
+Stars (Actors) - M
 
-Filming Dates
+Filming Dates - M
 
 
 
