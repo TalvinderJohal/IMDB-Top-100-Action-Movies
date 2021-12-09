@@ -9,7 +9,7 @@ Description - T
 
 Release Date - T
 
-Director Name - A
+Director Name - M
 
 Rating - A
 
@@ -19,7 +19,7 @@ Genre - M
 
 Stars (Actors) - M
 
-Filming Dates - M
+Filming Dates - A
 
 
 
